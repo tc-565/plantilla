@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tutors-html": "^2.6.3",
+    "tutors-publish": "^2"
+  }
+}
