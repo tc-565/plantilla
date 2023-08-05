@@ -1,9 +1,5 @@
 credits   : Una breve descripción del contenido (esto lo puede cambiar en el archivo properties.yaml). Recuerde cambiar el archivo course.png por una ilustración representativa del contenido de su curso.
-ignorepin: 4321
 labStepsAutoNumber: true
-ignore:
-#  - topic-01
-
 
 # youtube: https://www.youtube.com/channel/UC0kbYffbE6EDb58nEqTZjzA
 # slack: https://facebook.com/equimicaucr/posts/1866842073545815/
