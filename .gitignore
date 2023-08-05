@@ -3,3 +3,5 @@ public-site-uk
 public-site
 json
 node_modules
+package.json
+package-lock.json
