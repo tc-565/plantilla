@@ -1,7 +1,7 @@
 # Nota
 Recuerde aplicar sus conocimientos de Markdown
 
-[toc]
+[[toc]]
 
 ## Lorem Ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean posuere elit a erat consequat, sed elementum quam cursus. Aliquam hendrerit mi diam, sit amet porta nibh ornare sit amet. Phasellus egestas mauris quis ex ornare accumsan. Morbi id ipsum ut sem malesuada pretium. Vivamus libero turpis, placerat quis dignissim sit amet, convallis vel justo. In vitae tellus nisi. Quisque tristique facilisis magna, quis lacinia orci molestie at. Sed tincidunt sapien massa, sit amet pulvinar turpis dictum et. Suspendisse potenti. Vestibulum in tortor in neque porttitor tincidunt. Proin fermentum mauris ut felis gravida ultricies.
