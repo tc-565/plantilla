@@ -2,7 +2,7 @@
 
 Note que al digitar `[toc]` en una línea aparte, es posible insertar una tabla de contenidos únicamente para los títulos de nivel 2 (##).
 
-[toc]
+[[toc]]
 
 ## Acerca de
 Este es un `panelnote`. Su función es elevar una nota escrita en Markdown para que sea directamente visible en un objeto `unit`.
